@@ -159,5 +159,5 @@ Using Power BI, DAX, and EDA with Excel, the project delivers a structured analy
 
 ---
 
-# Screenshot of the Dashboard :- (https://github.com/Harshrai364/Income-Dynamics-Analysis/blob/793b19ac4115165678a158fbc9fef6bcc3a61423/Income%20Insight%20screenshot.png)
+# Screenshot of the Dashboard :- https://github.com/Harshrai364/Income-Dynamics-Analysis/blob/793b19ac4115165678a158fbc9fef6bcc3a61423/Income%20Insight%20screenshot.png
 
